@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 11 Aug 2023 15:28:31 at https://themeforest.kreativdev.com/treats/demo/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://themeforest.kreativdev.com/treats/demo/index.html -O1 "C:\Users\93in\OneDrive\Desktop\mind luster certificates\home decor\food" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:29:06	Error: 	"Not Found" (404) at link https://themeforest.kreativdev.com/treats/demo/assets/fonts/fontawesome/webfonts/fa-brands-400.svg (from https://themeforest.kreativdev.com/treats/demo/assets/fonts/fontawesome/css/all.min.css)
+15:29:06	Error: 	"Not Found" (404) at link https://themeforest.kreativdev.com/treats/demo/assets/fonts/fontawesome/webfonts/fa-light-300.svg (from https://themeforest.kreativdev.com/treats/demo/assets/fonts/fontawesome/css/all.min.css)
+15:29:06	Error: 	"Not Found" (404) at link https://themeforest.kreativdev.com/treats/demo/assets/fonts/fontawesome/webfonts/fa-regular-400.svg (from https://themeforest.kreativdev.com/treats/demo/assets/fonts/fontawesome/css/all.min.css)
+15:29:06	Error: 	"Not Found" (404) at link https://themeforest.kreativdev.com/treats/demo/assets/fonts/fontawesome/webfonts/fa-solid-900.svg (from https://themeforest.kreativdev.com/treats/demo/assets/fonts/fontawesome/css/all.min.css)
+15:29:07	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themeforest.kreativdev.com/treats/demo/assets/images/footer-bg-3.jpg (from https://themeforest.kreativdev.com/treats/demo/index-3.html)
+15:29:07	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themeforest.kreativdev.com/treats/demo/assets/images/loader-4.gif (from https://themeforest.kreativdev.com/treats/demo/index-4.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 37 seconds : 111 links scanned, 104 files written (20153178 bytes overall) [19035008 bytes received at 514459 bytes/sec], 1290779 bytes transferred using HTTP compression in 22 files, ratio 9%, 8.5 requests per connection
+(4 errors, 2 warnings, 0 messages)
